@@ -1,0 +1,6 @@
+H:\ECOLE\C03-P1-PROG-BASE\Excerices05\Excerices05\obj\Debug\Excerices05.csproj.AssemblyReference.cache
+H:\ECOLE\C03-P1-PROG-BASE\Excerices05\Excerices05\obj\Debug\Excerices05.csproj.CoreCompileInputs.cache
+H:\ECOLE\C03-P1-PROG-BASE\Excerices05\Excerices05\bin\Debug\Excerices05.exe
+H:\ECOLE\C03-P1-PROG-BASE\Excerices05\Excerices05\bin\Debug\Excerices05.pdb
+H:\ECOLE\C03-P1-PROG-BASE\Excerices05\Excerices05\obj\Debug\Excerices05.exe
+H:\ECOLE\C03-P1-PROG-BASE\Excerices05\Excerices05\obj\Debug\Excerices05.pdb
